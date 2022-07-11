@@ -3,13 +3,13 @@
 
 statxt = """<b>Meow Meow <code>{}</code> !</b>
 
-<i><u>I am Strong RandomPassword generator made by python with pyrogram library</u>.</i>
+<i><u>I am Strong RandomPassword generator [🤖](https://telegra.ph/file/4a2187ce9b300dc6f07cc.jpg) made by python with pyrogram library</u>.</i>
 
 •Python-Version• : <code>{}</code>
 •Pyrogram-Version• : <code>{}</code>
 
 <i>Generate Your Password freely and if you facing any issue 
-let us know at @SilentVerse .</i>
+let us know at @TamilBots .</i>
 """
 
 
@@ -23,26 +23,26 @@ helptxt = """<b>Meow <code>{}</code> .</b>
 
 <code>/ping</code> or <code>/on</code> : To check Alive and ping of bot.
 
-<code>/repo</code> or <code>/source</code> : To get Source Code of @{} .
-
 <code>/pgen</code> : Use and explorer.
-    ➥ [<a href="https://t.me/Rexrebot?start=true">Work in PM only</a>]
+    ➥ [<a href="https://t.me/PasswordGenRoBot?start=true">Work in PM only</a>]
 
 <code>/sgen</code> : Use and explorer.
-    ➥ [<a href="https://t.me/Rexrebot?startgroup=true">Work in Group only</a>]
+    ➥ [<a href="https://t.me/PasswordGenRoBot?startgroup=true">Work in Group only</a>]
+
+    
 
 """
 
 repotxt = """<b>Meow Meow <code>{}</code></b>.
 
-<a href='https://t.me/Rexrebot'>RandomPassword Robot</a> is made by <a href='https://python.org'>Python</a>
+<a href='https://t.me/passwordgenrobot'>RandomPassword Robot</a> is made by <a href='https://python.org'>Python</a>
 on pyrogram library.
 
-Bot Source Code: <a href='https://github.com/ItsmeHyper13/Random-PassGen'>RandomPassword Repository.</a>
-Bot's License : <a href='https://github.com/ItsmeHyper13/Random-PassGen/blob/sree/LICENSE'>GPL-3.0 license</a>
+Bot Source Code: <a href='https://github.com/IamBluedragon'>RandomPassword Repository.</a>
+Bot's License : <a href='https://github.com/IamBluedragonLICENSE'>GPL-3.0 license</a>
 Supported Hosting Server : This Repo supports <code>Heroku</code>, <code>Okteto</code>, <code>Vps</code> and <code>Local Deployment</code> too
 
-<i>Any Query about repository Then ask at @SilentVerse</i>
+<i>Any Query about repository Then ask at @Tamilbots</i>
 """
 
 
@@ -103,7 +103,7 @@ read and choose as you want to generate!!
 
 <i><u>Choose your types of password</u></i>!!</b>
 
-➥ <i>Developed By @ShiningOff</i>  
+➥ <i>Developed By @AboutMk</i>  
 """  
 
     
@@ -124,7 +124,7 @@ t1 = """<b>Woi Woi <code>{}</code> !!</b>
 <i><u>Choose The limits of password like do u wana password of <code>6</code>, <code>8</code>, <code>10</code>, <code>12</code> Digits And select
 Your option</u></i>!!</b>
 
-➥ <i>Developed By @ShiningOff</i>              
+➥ <i>Developed By @AboutMk</i>              
 """
 
 
@@ -140,7 +140,7 @@ t2 = """<b>Woi Woi <code>{}</code> !!</b>
 <i><u>Choose The limits of password like do u wana password of <code>6</code>, <code>8</code>, <code>10</code>, <code>12</code> Digits And select
 Your option</u></i>!!</b>
 
-➥ <i>Developed By @ShiningOff</i>              
+➥ <i>Developed By @AboutMk</i>              
 """
 
 
@@ -156,7 +156,7 @@ t3 = """<b>Woi Woi <code>{}</code> !!</b>
 <i><u>Choose The limits of password like do u wana password of <code>6</code>, <code>8</code>, <code>10</code>, <code>12</code> Digits And select
 Your option</u></i>!!</b>
 
-➥ <i>Developed By @ShiningOff</i>              
+➥ <i>Developed By @AboutMk</i>              
 """
 
 
@@ -172,7 +172,7 @@ t4 = """<b>Woi Woi <code>{}</code> !!</b>
 <i><u>Choose The limits of password like do u wana password of <code>6</code>, <code>8</code>, <code>10</code>, <code>12</code> Digits And select
 Your option</u></i>!!</b>
 
-➥ <i>Developed By @ShiningOff</i>              
+➥ <i>Developed By @AboutMk</i>              
 """
 
 
@@ -188,7 +188,7 @@ t5 = """<b>Woi Woi <code>{}</code> !!</b>
 <i><u>Choose The limits of password like do u wana password of <code>6</code>, <code>8</code>, <code>10</code>, <code>12</code> Digits And select
 Your option</u></i>!!</b>
 
-➥ <i>Developed By @ShiningOff</i>              
+➥ <i>Developed By @AboutMk</i>              
 """
 
 
@@ -204,7 +204,7 @@ t6 = """<b>Woi Woi <code>{}</code> !!</b>
 <i><u>Choose The limits of password like do u wana password of <code>6</code>, <code>8</code>, <code>10</code>, <code>12</code> Digits And select
 Your option</u></i>!!</b>
 
-➥ <i>Developed By @ShiningOff</i>              
+➥ <i>Developed By @AboutMk</i>              
 """
 
 
@@ -220,7 +220,7 @@ t7 = """<b>Woi Woi <code>{}</code> !!</b>
 <i><u>Choose The limits of password like do u wana password of <code>6</code>, <code>8</code>, <code>10</code>, <code>12</code> Digits And select
 Your option</u></i>!!</b>
 
-➥ <i>Developed By @ShiningOff</i>              
+➥ <i>Developed By @AboutMk</i>              
 """
 
 
@@ -236,7 +236,7 @@ t8 = """<b>Woi Woi <code>{}</code> !!</b>
 <i><u>Choose The limits of password like do u wana password of <code>6</code>, <code>8</code>, <code>10</code>, <code>12</code> Digits And select
 Your option</u></i>!!</b>
 
-➥ <i>Developed By @ShiningOff</i>              
+➥ <i>Developed By @AboutMk</i>              
 """
 
 
@@ -252,7 +252,7 @@ t9 = """<b>Woi Woi <code>{}</code> !!</b>
 <i><u>Choose The limits of password like do u wana password of <code>6</code>, <code>8</code>, <code>10</code>, <code>12</code> Digits And select
 Your option</u></i>!!</b>
 
-➥ <i>Developed By @ShiningOff</i>              
+➥ <i>Developed By @AboutMk</i>              
 """
 
 
@@ -268,7 +268,7 @@ t10 = """<b>Woi Woi <code>{}</code> !!</b>
 <i><u>Choose The limits of password like do u wana password of <code>6</code>, <code>8</code>, <code>10</code>, <code>12</code> Digits And select
 Your option</u></i>!!</b>
 
-➥ <i>Developed By @ShiningOff</i>              
+➥ <i>Developed By @AboutMk</i>              
 """
 
 
