@@ -3,7 +3,7 @@
   "description": "Open-Source bot to generate strong random password for your social media accounts.",
   "keywords": ["randomgen", "password", "telegram"],
   "logo": "https://telegra.ph/file/0c939a777905d211dc7e5.jpg",
-  "repository": "https://github.com/ItsmeHyper13/Radndom-PassGen",
+  "repository": "https://github.com/mohankumarroshini/Radndom-PassGen",
   "stack": "container",
   "addons": [
       {
