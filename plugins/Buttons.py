@@ -3,11 +3,11 @@ from pyrogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup
 
 strtbtn = [
     [
-        InlineKeyboardButton(text='Support', url="https://t.me/silentverse"),
-        InlineKeyboardButton(text='Source', callback_data="repo_")
+        InlineKeyboardButton(text='sᴜᴘᴘᴏʀᴛ', url="https://t.me/tamilbots"),
+        InlineKeyboardButton(text='ᴅᴇᴠ', url="https://t.me/aboutmk")
     ],
     [        
-        InlineKeyboardButton(text='Commands', callback_data="help_")
+        InlineKeyboardButton(text='ᴄᴏᴍᴍᴀɴᴅs', callback_data="help_")
     ]
 ]
 
