@@ -39,7 +39,7 @@ repotxt = """<b>Meow Meow <code>{}</code></b>.
 on pyrogram library.
 
 Bot Source Code: <a href='https://github.com/IamBluedragon'>RandomPassword Repository.</a>
-Bot's License : <a href='https://github.com/IamBluedragonLICENSE'>GPL-3.0 license</a>
+Bot's License : <a href='https://github.com/IamBluedragon'>GPL-3.0 license</a>
 Supported Hosting Server : This Repo supports <code>Heroku</code>, <code>Okteto</code>, <code>Vps</code> and <code>Local Deployment</code> too
 
 <i>Any Query about repository Then ask at @Tamilbots</i>
